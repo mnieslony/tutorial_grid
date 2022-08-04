@@ -11,7 +11,7 @@ source /cvmfs/annie.opensciencegrid.org/setup_annie.sh
 setup jobsub_client
 
 ###MODIFY SCRIPT_PATH
-export SCRIPT_PATH=/annie/app/users/mnieslon/tutorial_lappd/grid
+export SCRIPT_PATH=/annie/app/users/mnieslon/tutorial_grid
 ###MODIFY GRID PATH
 export GRID_TAR_PATH=/pnfs/annie/persistent/users/mnieslon/grid
 

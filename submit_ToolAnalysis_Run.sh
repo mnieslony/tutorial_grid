@@ -11,7 +11,7 @@ RUN_NR=$1
 FILES_SUB=$2
 
 FILEDIR=/pnfs/annie/persistent/raw/raw/${RUN_NR}
-DIRNAME=MyToolAnalysis_LAPPD
+DIRNAME=MyToolAnalysis_LAPPDTutorial
 TARFILE=ToolAnalysis_for_grid_Tutorial.tar.gz 
 
 #Go through all raw data files in the listed directory
